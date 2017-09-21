@@ -1,0 +1,61 @@
+html{
+  text-align: center;
+}
+
+#Home{
+  background-image: url(file:///Users/armandtaheri/Desktop/Projects/Broadway/Resource/the-flatiron-building.png);
+}
+
+a{
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+.Explanation{
+  color: black;
+}
+
+.Details{
+  color: black;
+}
+
+h1{
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold
+}
+
+p{
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+.title-2{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(file:///Users/armandtaheri/Desktop/Projects/Broadway/Resource/the-flatiron-building.png);
+}
+
+footer{
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
